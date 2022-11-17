@@ -2,35 +2,35 @@
 Hash: SHA512
 
 Codename: focal
-Date: Thu, 17 Nov 2022 04:08:47 UTC
+Date: Thu, 17 Nov 2022 04:09:04 UTC
 Architectures: amd64
 Components: main
 Description: Pivot-Studio/apt-repo
 MD5Sum:
- 32edc7aedb2ca05f6b01176bfb3a2ed2 425 main/binary-amd64/Packages
- 7593cf820f325567ae7e0100fbdb3b40 322 main/binary-amd64/Packages.gz
+ 9cac54fe7f7f23ae1a2fef7a2f49c2c4 425 main/binary-amd64/Packages
+ 9f43d68665c3e395be4a7f387fc30eb7 321 main/binary-amd64/Packages.gz
  98784b674b6015062d3ab04da0389e3a 71 main/binary-amd64/Release
 SHA1:
- d9be55e3696e2891cba54e0754d9f104a1e85b21 425 main/binary-amd64/Packages
- 3fb13b4f3f3da8cbc33bad21aa6fde9af2b831fc 322 main/binary-amd64/Packages.gz
+ fcfc6b67da46e27a2fe69a28e8f070f0205f3dd5 425 main/binary-amd64/Packages
+ 691a052e2f0144517a37791f9988f8e9909055bb 321 main/binary-amd64/Packages.gz
  38ba2c905b5309dde6be09bcbfd3c6b464a05946 71 main/binary-amd64/Release
 SHA256:
- 27c85b88961ff9dada0558d678c623f9a6c4eb407db6c653c2b28d87ddbccbf0 425 main/binary-amd64/Packages
- 164f1a74d64073ea053c8504f8a9a782d4e989cc589432ae39fafcc1863b6a67 322 main/binary-amd64/Packages.gz
+ 5472b42337d0f2aa62d3c2a741ed5edae7c998f8d6eb75ae47828915c8bdae0a 425 main/binary-amd64/Packages
+ 2da5ea07319d889b37cc89e90570bdb27930baa561119e9702e10de809080f0b 321 main/binary-amd64/Packages.gz
  3967193c3fbf544e052a066375dacb46d53cbeebe306ba8b043bc5daf5b74a0c 71 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE2w4J9Gm/s7Pb1ZUGRLLojcNrR7gFAmN1s9AACgkQRLLojcNr
-R7giHxAAiEGpPXxnWQH7GvC6H7OULFJe6o1EGnV+kXiXMmxtTNIjbKFL1klpX9sb
-V1Tg9iBAB6DPLQtzby71tL/GAZzgF3cUiyeaW/Oh8gylNCzypylJAaUGdsT01Zx4
-9pWHYfnbCYaaVB2BbdpEQwejUhG7Mp4dWR7ITPGiN0TCtaijr1sFce+5ZoX172lx
-o7zIzYildAl7dm0YRXM7abus+2ZZsVbxHkhC0BkQgqITtF7Rt0PUXpIDxOWq22PW
-NZNo1j9lfJvIAhJGhEHfpoFlutLV0WY5ZUrbw8an8k/5LuvJz23xt4/kMevqfIMh
-iyPRPfAsg/sXTKSnGJM7bCC0ElaykFM/D7a6rfzstBxvse2g53BUWhgE4+kTrBpP
-nSZ4n++3XtWujyMaO6pq7D4HDvXUWwDr6lTQyT+H4qIvQRSoW+XumNUYJcctFkMZ
-2unZLGDdY5vA37jWgPw/6qryMdj/eptChZP19USNkcdWaUJrGCzcGUZWwv3NETkD
-Dfhup6icoDKCkwv2mQKkRJ2FZh99IhxzY2ZLtWOSOWVdERDTSqdkfz/dmp7Uin+9
-hdlzaOfE31s3gz1xTvdT4Y8Wmo66SPwhdTgc+A9ZtM9830qbDvZq8g4lefVPvGZ1
-9vRojlkDX0cnWkUXiHgUJCnpzqcHMZ1ZX+EPRgMXVSDQ9B1e8aI=
-=LkCw
+iQIzBAEBCgAdFiEE2w4J9Gm/s7Pb1ZUGRLLojcNrR7gFAmN1s+AACgkQRLLojcNr
+R7hzfxAAgBBvM9a25tUKbpyw0iE0zJipDk7WC6abJvNeDF6i71hhdpRe3pAwzG73
+DPBOrcgBgovdcMu4cQqLuIU9Z1KEsq9yM33u8DA0qOiuet8JL6sPP7EOWasCD2Mb
+6dvQ8iSYlW1SEnNcqQb99UJft68XSy/blbBCv7uHuXlbkX+RQxTCQATKBziu644D
+SdpjY1F2XX4EW0v1rqKSFB7HAjul1zM3xK7JOVLtgBmuqmTymQMcMj+a+5EjSb/D
+pxI+Z1ZD93e+Y5ky2LaVAitbR9O5PBK4SRt5BaE71mfZ5bvjpO6QNQMOJWxQnj98
+4tiIXpMA3mpdu2EEIP0CXYvlnZH7ymOJMbYcui8hW9AO3FRLtkiu2Q73/ukGJoVZ
+7iqdylyVNOCsl7tbd7crc4f3HWy6YdB3znbQCg7Ypu26kyxVDeuOOWsjU8IfSb+G
+QdcWMdJBdfycZiXzTgWfcpq9+/g5CAOGHOmA3kFFC7AMZ9PS/4eO5d6EsIRZbJia
+sMQhQirNOA7hATNkr4mim9l2GExwKvE2cnzsP3iRW8/I4L3p9UFm2Irn/bYxZOk2
+tSdAkirLuYDvnprVVTC0E3WJfV7ok2a5n39gUdqS7nEVKkzsyORgXZCNFK9ZExS2
+ZIuUq9h4Osm0xewIkSTWwPSbzTklZ9C2UbN/jCsY27ccusjjszU=
+=AJII
 -----END PGP SIGNATURE-----
