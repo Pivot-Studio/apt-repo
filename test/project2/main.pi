@@ -1,5 +1,0 @@
-use project2::main::test;
-
-fn test() void {
-    return;
-}

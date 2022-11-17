@@ -1,6 +1,0 @@
-project = "project1"
-entry = "main.pi"
-
-
-[deps]
-project2 = { path = "project2" }
