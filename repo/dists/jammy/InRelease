@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: jammy
+Date: Thu, 17 Nov 2022 03:06:24 UTC
+Architectures: amd64
+Components: main
+Description: Pivot-Studio/apt-repo
+MD5Sum:
+ 36c3f33955930233a758377630c31d3d 425 main/binary-amd64/Packages
+ 2194b405f17af5688733c4c6574c4288 322 main/binary-amd64/Packages.gz
+ 98784b674b6015062d3ab04da0389e3a 71 main/binary-amd64/Release
+SHA1:
+ 5630f8f8613c36335e5f320b153b8108d2912bc9 425 main/binary-amd64/Packages
+ 57586b09d3b5b0274c543c9ef53038017ee6db2b 322 main/binary-amd64/Packages.gz
+ 38ba2c905b5309dde6be09bcbfd3c6b464a05946 71 main/binary-amd64/Release
+SHA256:
+ 659bcac0970228439b28a24c8b0d683876b1b877c4a2b8b54dcf64e5c6368793 425 main/binary-amd64/Packages
+ f633620d32392e3da62198050a2241e79b04cf0f740ef925e818073734115fab 322 main/binary-amd64/Packages.gz
+ 3967193c3fbf544e052a066375dacb46d53cbeebe306ba8b043bc5daf5b74a0c 71 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE2w4J9Gm/s7Pb1ZUGRLLojcNrR7gFAmN1pTEACgkQRLLojcNr
+R7j0MhAAtRV5nJ/MAQfJgE9T64A5kAt35x6/JMx85CC5vuOxmfgS8N1qoqK9I9o7
+gx+/DF6WqvjuvRi/U+vrUAbqkeMDRzj65Mbt9aSpNNtMmr8yEqVk/2cZ6ww4+LHl
+Kg6GeQ2zlatnkDWzXfSu0e9G780it3FHuRJ6JaGP4rnFbIC0wDIahTVLrrwvxChP
+1fid6RTx7Xkfk4FBje8fYYZVqGOWRNt7e0SQf1bPzJuDx6D+H0QUOQmeFM5Acl8N
+S8rQO6FNCREk1cDkFaP7XcixF9bANG2ANETv8A3czo/TSQsp7GKlLvHPdCrG7prp
+ZF4WcVJesgjgHiqKu/9Evf3T3z7AfjJ5RG9dga4WTRcHzHCNP5Y1yyzTzQFZEvWT
+wBCr0umjsW+ypfp9mVv+IqE6mlYlQrvA9BueX8F99pxs+fNqxt6nIFObXb9w3PHE
+TSeQNZlvt68R1yN01hXxawGujc8000+rJGLuqQev0rFCYfoHYRaTYj2crMj2MzSL
+6o7N8CSjuiAbDjFHd5VXWsg1GJeXLJ7sf8p2Xal7FD2Jr7F2R4p55IcSQe7xpT8w
+5nE1mwqpaUGUM9QHeqBYQAK6H04C5hFMtgf+CDEw7nBY6kPNDIkl3DUw4bxkGM1P
+sMjyA8P/ZkRaY6WlfgbFQJJu9PFhz/4iUA+/7lpygM/D9rCsAh0=
+=bVdZ
+-----END PGP SIGNATURE-----
