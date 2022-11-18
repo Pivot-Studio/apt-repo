@@ -2,7 +2,7 @@
 Hash: SHA512
 
 Codename: jammy
-Date: Fri, 18 Nov 2022 03:09:41 UTC
+Date: Fri, 18 Nov 2022 03:09:57 UTC
 Architectures: amd64
 Components: main
 Description: Pivot-Studio/apt-repo
@@ -20,17 +20,17 @@ SHA256:
  3967193c3fbf544e052a066375dacb46d53cbeebe306ba8b043bc5daf5b74a0c 71 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE2w4J9Gm/s7Pb1ZUGRLLojcNrR7gFAmN293UACgkQRLLojcNr
-R7jt8A/9EIQLP0txITHFGllD2xlhnaopLvgwrtmECbU9WN/cAybYPxaIf4DFOvz8
-CLyNQDJYH9veEvq8lui2RYSbE76jhWsihoWT7exMsGp1Sw3lFNkcyZGjnbPISc9m
-APYvKKqmPPykFtPigLUkAbci9ImVceDk74hHfbi5wGFCBclJwDMUNoHgXj7pBwUS
-DHVGp97SCOCTCbtqjB3C5+R6H7p8wskzqBZaullYK13Fi3hn0OC/UUP4gaOUfagg
-woRd1UDrI6XsIAD9OqZBi/Pc6/KtPhNKSJW3QpDDxJUqdxTAKaorlcM/JkYp6ZKn
-8fH5r+IT6PrLCZo0fRxwDAsjLcFB4Sn4nBIk6XupqtfdyOdCV9pp8+fMOYJFQyH1
-rYWrwNwXqC6lK//XS4K+KVzfdB2SiI89rHd9xsmc1VTk7/5LTo5JCfnMuom5T0Cm
-iu2SmPPLmVC+aCUoIGfM0u8sa4o4DxUF4aQK7P9urJNuCk/MtPA2JEY0nY1R5tZ6
-PPa68q9naSBx3A77kBMjAZ+cXya/QG8CyMkFUnYSADOVakK7bMSoEvkRwp3P7MB0
-3G/ky3gN9QrvRrKxkelA3lyOaNgjOTzD5GqcvJLwGvi8tdd609/tDN1EU3VNaOXg
-okWZmq1mblzfCbCDLItDV6fvwN+0wMH2HinSnMDacsowKwI/x+I=
-=5NQr
+iQIzBAEBCgAdFiEE2w4J9Gm/s7Pb1ZUGRLLojcNrR7gFAmN294YACgkQRLLojcNr
+R7iSug//f/YCwS+8uq1Mh3XcpkhhG2glcNwDLk+7m7iEW1UINypg5kEszfobGhWz
+GdKfFrGhh+urN4sGUY2cUhECMWhh06EI3yVJsRq8gWRjM3EaTZVY6zSNoa7uF35T
+MRbbIm4kqteP2uIQyOf4m6j/pxif9ngGmCf1bFI1AVq0HksuIRshtSulcClGmJZC
+oF6ohbin/iHXRwtJedhtDY7TpCx/yrSvCZgiEib9fnnJC+ju26YGtShIK4xcb/Ga
+h5Yu4E6zUlFErOUr2VBcQd4497JlIzJ/hJRHR5CycqCTCsjlz737AmTob8QWMaz9
+GgRgabnXV23T9K5rJuhPM0qf6RPiQXtajciqpwgl2/C1J64VhqiBteQ+mP80B+R4
+YrfsmtfpuL8HqiODqe9uKV8+iOpxjhrjC36xqTU5SFlTOl+cGAPwmF2cVNKPgW+o
+zr9h/jHxcmcW0VFyV5SCClBCFUkqeu31+2bwefuywM/CXLbWsqKIbrgmahjJVLkQ
+PdeDr5MyZbpOgOPPJo/UUaHlothGn+56Bz1tGW7CzfOtGTBe8icgbpX6YnRBsgAO
+MlExdkFfUpJTtp643kbQ+KUt8PbnOvnsrqd47az2bgNUYNTGjp4LN/sXd4JLb4sM
+pMQw9sTBrTMu1HXPfpD/CUN8txOgMsPHtuzoAtv/Qe5pEfSVT+4=
+=wpZu
 -----END PGP SIGNATURE-----
