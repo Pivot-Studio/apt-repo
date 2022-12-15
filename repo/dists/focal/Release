@@ -1,17 +1,17 @@
 Codename: focal
-Date: Thu, 15 Dec 2022 15:38:50 UTC
+Date: Thu, 15 Dec 2022 15:39:15 UTC
 Architectures: amd64
 Components: main
 Description: Pivot-Studio/apt-repo
 MD5Sum:
- 3ae02853f02d95be94066611aca4c2f7 425 main/binary-amd64/Packages
- d0d1c307248be482b46728c4fc56d692 323 main/binary-amd64/Packages.gz
+ f13c56ae12d3d459b35b84e7c61a32e6 425 main/binary-amd64/Packages
+ 8849d7f320c74f9ea9103b0f9ac8a679 322 main/binary-amd64/Packages.gz
  98784b674b6015062d3ab04da0389e3a 71 main/binary-amd64/Release
 SHA1:
- b1b4955f0e4f7d1ce0e52f007621fca420cefb22 425 main/binary-amd64/Packages
- 6c820fe5c3c2c7e9c975b78449f7275a36058731 323 main/binary-amd64/Packages.gz
+ 9ab04f7486e3f9a2279d534c2d92ea53030f8ae8 425 main/binary-amd64/Packages
+ de2ad1575186e3d5c7012ac73c3130afe12fa86e 322 main/binary-amd64/Packages.gz
  38ba2c905b5309dde6be09bcbfd3c6b464a05946 71 main/binary-amd64/Release
 SHA256:
- 2d001b7e9e98beefbafa62a44cdf5a77a84eff011cce8098dbccc687482ca7b6 425 main/binary-amd64/Packages
- 1f8ddea5627c9aef1569f7029fc350128a506fc7f3470fe158fc6cc40dfb2511 323 main/binary-amd64/Packages.gz
+ 514e4352e10698647b55e91f7de9635b55444144017992ede134b8f13f8f6781 425 main/binary-amd64/Packages
+ b154f12ffa4a49bfda79d93b9e1b7d01afd5a57ebfa127526b8b19170d12190d 322 main/binary-amd64/Packages.gz
  3967193c3fbf544e052a066375dacb46d53cbeebe306ba8b043bc5daf5b74a0c 71 main/binary-amd64/Release
