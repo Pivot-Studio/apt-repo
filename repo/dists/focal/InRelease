@@ -2,7 +2,7 @@
 Hash: SHA512
 
 Codename: focal
-Date: Fri, 23 Dec 2022 07:28:21 UTC
+Date: Sat, 24 Dec 2022 04:34:11 UTC
 Architectures: amd64
 Components: main
 Description: Pivot-Studio/apt-repo
@@ -20,17 +20,17 @@ SHA256:
  3967193c3fbf544e052a066375dacb46d53cbeebe306ba8b043bc5daf5b74a0c 71 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE2w4J9Gm/s7Pb1ZUGRLLojcNrR7gFAmOlWJUACgkQRLLojcNr
-R7ggVQ//SbjlybfgY52OgfhBgN1r+TGfgY7s7yxw1M1iRGrVkCwNsF7Xr6Afxu2w
-0MLqwYnnZUcNUeF+/DQXKed9FzesC1t2Qtf3gqZR/x3KTLerSXphzhNq+eHifgUD
-7jGV9cnz4AhiCJ5IMwGae2oDssACpH6tFlpRNTBBt570vQWo3jZ/tILwHTorlr4F
-hpYaBnzUScjzsrAOoeIRKLPrIOCtFF8Me4s3yiFDcePcbnNcpAGMBADV0NVsmFbQ
-p7fA1X8mI2+PclNkegQhNKZyh4LAinRpQRNaQDRxGzIoCAzqIx2QnjgGSoPIrvFc
-atAXjMYs3Ejk4T5ydN7fwPNtmMccL1yddy/Ult841I69xpVqKNbfGvdb7GlR++NS
-BRFa3AQ0HSsHs1m89UpVbQt3bB4W9ge9Dc4zB029Hsq3ZiP2jxF9/ASDKYUOgdG5
-7wRdJF3NN/micp4D6Jyq4fA1Xh/vtXLsOvHNedLiMjjQgalIXDitzHjxMEJHybOy
-SntP6hWuwwiNA2gAlDACqUyvRsBSByvaUJwe1OirCU7+u6DLBK+oAAviudeJ7DA+
-PwawqqKmqtISkcoUmg2xu4QdmoefFpqfLwgvB21srPYqHb8/v5Z+Ncx65a322pes
-+3F1ico28ApH5OUWb722wEptZpc7M7reF2Fre5Xpj6gM6n3xWo8=
-=d27A
+iQIzBAEBCgAdFiEE2w4J9Gm/s7Pb1ZUGRLLojcNrR7gFAmOmgUMACgkQRLLojcNr
+R7hvRBAAkoqBepa1XJ8u5//fXhVdfyVXSs2MAIbdNTgKkoTtJx5czu9lQWNEmMes
+jpl2XFtcUpVauqnNjJfNOvQUIl0KSYIkRPiX7JCAvyglEuNXt7RIKlPzb/LP7Oz0
+2kfz/lxNhVe8Z3y5XYCnADo5B39j0e6uL541sgHwO4/6TGrmH/sbAubaO/mcTyx7
+YKpjVhwuuDZbxWoL2fz+38jXlKn1x3gru8No0NcaZixFOhJcjE2mZeAHasea3vJz
+POiQJGmQhDwStHckjhMyigk+ROAutDvubTuKgtAGaQ2qKJvG8cWuauPZwo86BrRc
+OeVzkyy+9zm3NGjs9M6OJpd10m+ZW3rqdnNbNO5LasN/uutwq5PMDoH/KiFzZkTn
+GrGkcN0TEGDZdDMbXTg8r9AVZSDkpLTe1EVwqlNda1PxeTXlN2RHXhz6Qfyh9k8D
+z710v5OwsHnubK9HnXzxis5utAwR+a6UQ7hQMwi/crPZMjtC+7LsPE7fWpUTs1du
+6tdM5wInR+hg8yguTmc+TTo/7F01R97qzztuwk4iCj46koTWSA7+2UfxcNiDrwEq
+xctBf644WUjXr2gVh8IWxzW0SRIvHH0CG5TQI2/DLGljpO1Ac1IuS/GfVlyscUX7
+pJY1fSF//fbDX9SB3vc2AvtPCX0sFeWZydBplYCZNlVQaTBo7+k=
+=DVk5
 -----END PGP SIGNATURE-----
