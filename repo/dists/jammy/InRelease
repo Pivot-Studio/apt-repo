@@ -2,35 +2,35 @@
 Hash: SHA512
 
 Codename: jammy
-Date: Tue, 27 Dec 2022 14:57:14 UTC
+Date: Tue, 27 Dec 2022 15:15:26 UTC
 Architectures: amd64
 Components: main
 Description: Pivot-Studio/apt-repo
 MD5Sum:
- 0850de8ee31ef4b2f114f6bab0b76bd0 426 main/binary-amd64/Packages
- 672ad72b83cf84e074d1ce7dc5535f03 324 main/binary-amd64/Packages.gz
+ 58cd84d4aee4d65306f40d0dd028d52f 426 main/binary-amd64/Packages
+ 4e24e3996cc4147fc5ecf830c1fb9dbd 322 main/binary-amd64/Packages.gz
  98784b674b6015062d3ab04da0389e3a 71 main/binary-amd64/Release
 SHA1:
- 09409b3e33bbbe0cd30667f908c90bee2c272d97 426 main/binary-amd64/Packages
- 3fe1a31b20f6d7938c44dd123ed30dbe2acfe566 324 main/binary-amd64/Packages.gz
+ 20929a638337d871bc9a2e3e35493cce1a701578 426 main/binary-amd64/Packages
+ a3b93f7bfdb2ff71a8cccab62b940f88f5b0a60d 322 main/binary-amd64/Packages.gz
  38ba2c905b5309dde6be09bcbfd3c6b464a05946 71 main/binary-amd64/Release
 SHA256:
- 700b9f7dfe98c3eead2599f6c5e72a6adcbad99c333b6081071b464b016b0ee1 426 main/binary-amd64/Packages
- 353d1cedeb192b25c5f08d2dd1c08831a6bfdaae303072fed7c8f34c7418783f 324 main/binary-amd64/Packages.gz
+ ad61d55017e812f449d6f6228f58e707f53132d4e4a9e2e9509c7ffac509154a 426 main/binary-amd64/Packages
+ 4475e4acf99b7fc8ab2863bd3da24acc537f398fdcc56b833c9f630eb80454cd 322 main/binary-amd64/Packages.gz
  3967193c3fbf544e052a066375dacb46d53cbeebe306ba8b043bc5daf5b74a0c 71 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE2w4J9Gm/s7Pb1ZUGRLLojcNrR7gFAmOrB8oACgkQRLLojcNr
-R7iSfRAAnnEEa5e9ApHhAJWLqKioMrpXZn+zUEHukrrY/wBAr+ikdkn+GTJnbIpu
-2Dyw6WZGe36cuD48VjDJssovW6EWbziQFa54jsisIkDdoZH4yG0EghzKj7yR23Xj
-47ZGD0UhBdWCf6+cezzdI7qYnVogpf2aOobhqq7Ottpo2LoObQHZYCzcP9gkc2Q/
-vGoqV57RaE0R3ggbJuXcYES2ne2ceaec3EVhxFEE2k6vd9mCClE88yHC6utlDhly
-rAKbkor6HOToe/3GvOpQe95JOpVi7VDqdwhWa5u+ndybA0eHuPoIH6Q2VkC/glTX
-GnByo4BN9giZ3Z9lFW710oChSuU1xBIiS6i7IY/soFbqmQRzUSOxIuM8oaJs3ZxH
-21Ke1CUuK618nnBAFwAgC1+oZYewFr5J9ki483s79MTlqZu614vWSWzPcwkSB89p
-hqs+HQAliEoOWC746/VHRabYR2w0T3aZkcxc9wIrfzwVWk//OSnkIy4NNzHGviLS
-NA1k27vm3wD+VvoSh1Zq0hEABYNSx42c6nsFpI7nF+OJGBlILwkbBflcYLqSLEc+
-8KjN0BL0E/nw6cOtbvDpew42dBNHIjaXs1BY79kpi1DTEd9tYlQZpOfL69R04VaX
-yY5WKvs1o8a6QYvKOyEncV9RoUaxftGARf0EuAFmhT/S5IOGVrk=
-=gUVr
+iQIzBAEBCgAdFiEE2w4J9Gm/s7Pb1ZUGRLLojcNrR7gFAmOrDA4ACgkQRLLojcNr
+R7gziA/7BImOixWfvnf0mTBB9kcOgppeAci42mpxoJmTKlsDMpFDWLMWL7BYeLli
+aF6t6ADmEydCZU2Bh9kU13V9u+G7J7YFBnf3/1CgY7jWFC4xDeLHyNrjcfALw33+
+CAI6nhIkDzDwBae286p4/Ii3dXRTBFav63ncvwD3kgORNRVHIUR1YBGQ72g+L/kL
+/6xswRIp3hVimXYfyEOWB/Mh1rNGybEaj3s+JzMHj0Xy2V5qUbmTUenNOXpjX8y0
+Y3tRAkiram2E7y/MPmHXx4u/aVQEN5ukHmkfMbP19cyxML5TVvtE3t2Nm3M55AiY
++bAGgZOWg5jqm/4LWry54BALK6LLtEXwBwivLp6bzlBq9+3InCh7TWSRKWbfCi3T
+R/jg6xX+6XvC2s3r1amUpYZuAZud+abPjzJ4v+E/IrTP7StT/J9ShgaoyvXbc1+G
+zNX8FJR2VGLWPngGSj0oQJZ/+pCeeGavMlbZh19M7/IW/txn9K/aj16OxSE1r3zC
+0RR+sCp0KktYQJdft/k2Ie9YG+k1LudBr3oc/ps0KC+vwbUCQNLdLX8lMJSJGZJa
+U3qGkxdrTMEOTZjUXl1ryOuEoK3bDlvF2NCPw2r1GoUueSzishK/tv/XM0Lt64Iu
+TLRWcQEgAzOG/IDVxln5PXUydtIU2zQXszRA6TsCaXp1XVaOC5Y=
+=4xuy
 -----END PGP SIGNATURE-----
