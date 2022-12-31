@@ -1,17 +1,17 @@
 Codename: jammy
-Date: Wed, 28 Dec 2022 15:53:18 UTC
+Date: Sat, 31 Dec 2022 03:48:13 UTC
 Architectures: amd64
 Components: main
 Description: Pivot-Studio/apt-repo
 MD5Sum:
- 7382b51cc1b90bb6fcae797555c21163 426 main/binary-amd64/Packages
- 4f9c136c1a59e1704ee3260dc1a3641e 324 main/binary-amd64/Packages.gz
+ 2f597df4e0e44bd1292e0f33a5fd5e66 426 main/binary-amd64/Packages
+ 449eb304d5d4d246b2fbaef450f3e890 323 main/binary-amd64/Packages.gz
  98784b674b6015062d3ab04da0389e3a 71 main/binary-amd64/Release
 SHA1:
- 06bb2f4087d6f57429f44a824d4b5477cd8c5dcc 426 main/binary-amd64/Packages
- 4dd6f8226a087ca6ee4ae22b14693b23678b1863 324 main/binary-amd64/Packages.gz
+ cfd0796fd8e6ce5040c7adc8a0f32255f8e146f5 426 main/binary-amd64/Packages
+ 7bc7ccd05871331913847f0338e1c1c59a42b162 323 main/binary-amd64/Packages.gz
  38ba2c905b5309dde6be09bcbfd3c6b464a05946 71 main/binary-amd64/Release
 SHA256:
- 7fc9f208ed471f556888eca4f22a955239d275ee76b7bbeccea286d000052591 426 main/binary-amd64/Packages
- 0f8c2490a96d9bf8c293c341a6bd4dde4c07b74b94e008a2e565ee90607fd601 324 main/binary-amd64/Packages.gz
+ 04d90aca135f4da84c75943861d73d5b2f259f949e8e74e88afae0074b2a245d 426 main/binary-amd64/Packages
+ d1e7c582911e3b0b90426d7c44ebcc97881c10c3518f357072405e2fbc120d7b 323 main/binary-amd64/Packages.gz
  3967193c3fbf544e052a066375dacb46d53cbeebe306ba8b043bc5daf5b74a0c 71 main/binary-amd64/Release
