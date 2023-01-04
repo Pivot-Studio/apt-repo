@@ -2,35 +2,35 @@
 Hash: SHA512
 
 Codename: focal
-Date: Wed, 04 Jan 2023 03:21:30 UTC
+Date: Wed, 04 Jan 2023 03:22:18 UTC
 Architectures: amd64
 Components: main
 Description: Pivot-Studio/apt-repo
 MD5Sum:
- 49370acba01ed08d685edd78c07cdf77 426 main/binary-amd64/Packages
- c63f701b37bc115347dcef86d904af78 323 main/binary-amd64/Packages.gz
+ a0d94d1570c5c4a000ebcb5cff3f2715 426 main/binary-amd64/Packages
+ 13b664ebb7efbc23bd800a65303653c1 322 main/binary-amd64/Packages.gz
  98784b674b6015062d3ab04da0389e3a 71 main/binary-amd64/Release
 SHA1:
- ecf17531c7023bde4180eb9bae01dfd5d02d478c 426 main/binary-amd64/Packages
- b67fb43c6b6fede2dd0e44f89c5118d333c4bd0c 323 main/binary-amd64/Packages.gz
+ 9d5f79e16a9bd6972c55c92bdffd5889954d0b21 426 main/binary-amd64/Packages
+ 3919b5de00494c53dbcb45969dfacbcfca1720f5 322 main/binary-amd64/Packages.gz
  38ba2c905b5309dde6be09bcbfd3c6b464a05946 71 main/binary-amd64/Release
 SHA256:
- 0ed1bcd0c14bc5080349c3ca3d5fa29ebe4a13133244592fdd2acaacf28ab244 426 main/binary-amd64/Packages
- 462de5bfd0cef35cb6ed4ad9b19ac2d745483efc634f5a5b4a8d23ed7fdf5bd5 323 main/binary-amd64/Packages.gz
+ a3e6a2c404d79e318030e2c0e239eb2b514387f5de950295119e05f0bf578665 426 main/binary-amd64/Packages
+ fcc50ef388de952c603c6ee99a29b5efd775a79ddd0a8aad0747a315b5a06f94 322 main/binary-amd64/Packages.gz
  3967193c3fbf544e052a066375dacb46d53cbeebe306ba8b043bc5daf5b74a0c 71 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE2w4J9Gm/s7Pb1ZUGRLLojcNrR7gFAmO08LoACgkQRLLojcNr
-R7jIwg//TfOxSie8zxSsnIEPmaBcAZtDl9ZPlW5Tg7ylkOJKFZg8mYEepEQDddEY
-HdeNGmYKBGjr068FPr/D25tujgKw4InI19wcsrwpWevC/ga0doTAgJ0lkLuOL9zI
-wbgAz4J2E1Odb/sboKk1Z3vyTZ+L3b+dzSynkTQP0PrEgLP7Hckh4Q/6tXwlYl89
-qQLgREujfFx6QcGd9wc10SI18cHWLCcfhU4T8MmhbQgh2s3HnyQ3N6nZPT/cWCb/
-EFN1CE9/9tek2m6wpO4Ed0zsIlqgOvg4xuM4fN8Mnb7HbEnAuB0cFB5L+fgfayZ2
-6kEDoKJFGrMjiee58XDN11reqrWhhFE0eCFsFOli0fAeAFsxVKiqZdwXZmT3L91X
-1pO4L2tojM/K2DhgBP8+0XP2PuDsnPIDS5YFVzPEA6fVNbeHm76RxTxtOiOsQEJE
-+G3oL0+tRrLjXxj7OZHo+7u2+6OYnFNCKwwsX1d7GCXm/Wku+16bczE/FOPgVzjm
-iRhXKuG4E+ABdXxlJJUqNdFqrn1jF0T6eVZ0+qcE78CkbERyADL/AR65/4QEkSA/
-f9R/35tUu/sUL2bbij4kH5z/noc9rvsj32nFhRmG3n27si+rW86BswrFBTwrl9gj
-FH4gp9WvvWkrb3pywtIbJnJtHo5Z2JdjgqEJd6Er0LkGJkKDHeI=
-=b5kv
+iQIzBAEBCgAdFiEE2w4J9Gm/s7Pb1ZUGRLLojcNrR7gFAmO08OoACgkQRLLojcNr
+R7jDSw/+PGQiPmyouf3JL5WMHbQL2d1qJSUUIU4O0lKQ+pUAicrIx9iCEb0YD8q7
+7+xqpj2cYVhkjC/NH79G2z72kwHKdbFZYNwLo0C4mU8T+/lQasi5eFk5lWWuEOt5
+QK+O6qSnn/KprDc/2hTsdwMkqtvrG9jXvYsDham3mpOU42KRdZGCX9525Ef7EtWR
+99d3ad/d4ZptBT704oN5R3GjptL1kV68bShTVDgj8z2AL5lCCEd/TrGI498MkL8W
+6FqAGua8hrvalAsv1zoasMeXf2me75zRmClpzPFBEjnDRxfohbGZlxiCg6zNMr6i
+MGHD5v2Y/rwV4h1oNsqYUMugYumEufMyPqLsN3Pl+6dQmwOnby3P1CyZPycag0+t
+RTu/CCGqu0BdCPJI8QUtSGNxzOpWtrAf5tyymB4qZJ3ysdqjG5akAL/nmjP+/Fdr
+dqUsSaG2AiUYrWrKxF18ZcSDXfa9/9e6Xb4Rp6UvOURDYc4YUn5DKnf7sISWe9rI
+TwVmxa2Ey7uuLC3SrFJTObRRAwj3e2GofRiUQAJSAik4hrQhMoLLGSkiZDMW+MEt
+5bCGlBxDXqzbGANmdLNvHeslCw9/SZIsZ5u8asN5MMGMFwykEtUgGk8EdupEoTfP
+hnbLPpYmuMFTlyOzbJnrbv7VWIVt3JalvQ2x8cZWCQut9gIfIck=
+=4Chh
 -----END PGP SIGNATURE-----
