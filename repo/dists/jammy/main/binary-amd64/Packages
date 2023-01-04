@@ -1,14 +1,14 @@
 Package: pivot-lang
-Version: 0.1.221
+Version: 0.1.222
 Installed-Size: 143490
 Architecture: amd64
 Maintainer: Chronos <1769712655@qq.com>
 Priority: standard
 Section: devel
-Filename: pool/main/p/pivot-lang/pivot-lang_0.1.221_amd64.deb
-Size: 42606906
-SHA256: 6d673c73036c14cca4f28a7eb682aed31b7e69de43ab359031804ec9d665e593
-SHA1: 1bd5b686d47973e0d38367d2b47389e719acfde1
-MD5sum: 40feead9e80619fac053e37226b71efc
+Filename: pool/main/p/pivot-lang/pivot-lang_0.1.222_amd64.deb
+Size: 42606924
+SHA256: fd71d4e9d46bf306078bba7adae8d703f3e00dae05f43698c28fa84762890886
+SHA1: 4b96c25ff8a1ba195ec04a8e06d9dd7fa3f3e85d
+MD5sum: a10c68484454c4273dd4788513ea1bd6
 Description: pivot-lang compiler
 
