@@ -2,35 +2,35 @@
 Hash: SHA512
 
 Codename: focal
-Date: Sun, 08 Jan 2023 03:23:19 UTC
+Date: Sun, 08 Jan 2023 03:24:32 UTC
 Architectures: amd64
 Components: main
 Description: Pivot-Studio/apt-repo
 MD5Sum:
- 9fd785635dcd5e8566ec55838fe5e873 426 main/binary-amd64/Packages
- ce5310bc4f71c49e23a190d49c394f5e 322 main/binary-amd64/Packages.gz
+ e5e42232918a8339109f26b2d05e892e 426 main/binary-amd64/Packages
+ 35dd62777fc8ec7672dfebd54b5ec66d 322 main/binary-amd64/Packages.gz
  98784b674b6015062d3ab04da0389e3a 71 main/binary-amd64/Release
 SHA1:
- 2dddc0aebfd001903d1ca149e2ca193bd18b5495 426 main/binary-amd64/Packages
- 5015c1a8cf496b0efb9324a7f9a95501b7fcef62 322 main/binary-amd64/Packages.gz
+ 0bb32b9f486cd5f8926fbaedd1961b2adc9a9502 426 main/binary-amd64/Packages
+ 9d13a30f32f7522d1f89f7898e27b638ba9db3de 322 main/binary-amd64/Packages.gz
  38ba2c905b5309dde6be09bcbfd3c6b464a05946 71 main/binary-amd64/Release
 SHA256:
- ecde2e02ac34d75ae4aca27111fc730c267a15a8466a040bc089d8a53c6f685c 426 main/binary-amd64/Packages
- 360cb9236a051fecedc8d624c835406db58a0c4380091615ed95dc4ba1f7e4bb 322 main/binary-amd64/Packages.gz
+ 9430e1835b053649460d52cde5d47db94dfd6256bb2f1a19337fec79a32748e5 426 main/binary-amd64/Packages
+ fd9e4b2d7a91da041029015b7f27cd9b4ce6551e16e6c34cbcf63d89768fdf74 322 main/binary-amd64/Packages.gz
  3967193c3fbf544e052a066375dacb46d53cbeebe306ba8b043bc5daf5b74a0c 71 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE2w4J9Gm/s7Pb1ZUGRLLojcNrR7gFAmO6NygACgkQRLLojcNr
-R7hXPhAAhHH08panLwoqO1NIUGRa6nNKGQNo7YT1b6pjfrKtPHgQZxeLOxWG1OFZ
-9ZeUrIihS5yyoIiNG4PczXIh49PKXiXQInxIemMTwidlwGUiXzaMgxLH5Tvse91V
-PVROkxlcriWa65+ZgI5ePv2Vw1mAGlUkHQaorKDFY+1o2Ufv4P9eLNaRQpg0dEMf
-3yEjEb+jNvT1N3+SeZR4frBncIbY6RSKwSUEKEhRfkxQ06Gn4SUoCZJvQ7UC5IgM
-Lfp3pG9MJWqc3kH/qlq5WZiWEqZH6MN6YgCV/X4j/gQ2y593Ue8PLRLOouVTlcMs
-ynZkrFL9Oge+skymd0Q3J8SmUOlymqD8+Ygo92wDks/rZR7l5F4hLLYSLMkgbPfG
-YORTQXlEcaSp5hLWYZ50vmH3/FxVe8V8LfvrofeCLQroxj4snLNLfFwt2pTdksEE
-7lV2Dqaz7lVK4JQIKvVR8F9tOZdtRe5apQRRId39Wg1UMXoGIUczzYDS9CDiHVJe
-gH5ca6WMkVUKVnkSSZ8+c+qwNGvggt1uJ2kVV2GzRjGXdK/lF9XpGBHWFr7W77AD
-/Du9dOkMMwavhiWN9IbUIQOcBIZljmxmBXx/Pp0gxnEh2sbn+3NuNNY24Jcmcu5G
-CSUQe38WpR4KlknLjyL4H3nvKCbtFrmLG5yCf3wS53c+C29fauU=
-=EUXu
+iQIzBAEBCgAdFiEE2w4J9Gm/s7Pb1ZUGRLLojcNrR7gFAmO6N3AACgkQRLLojcNr
+R7hQ4g//aO2LEu85tPK/m4Sm4PAHGJhqSUwchgxlbNcBlLX15O+lWWHKty7iEMCA
+ND4sqJObbbN9gRXw3yzypjHwvPn7RxMa52WGYlFeQ6jVYfx2GQqWDigtiymkkPuX
+KwTmbNnGNpVZgTTsQh2tGRBQXN0Ot17MJ2XoQJXh529Xtu6+8e6Ygiiuj5Cq1YNT
+/ZeceCRzTE3eDgBKYAD35l1YGXONWoBjza6qFoyMg/+EZpCL2Ma+sLGZ3ANE8qPZ
+hasmtZnUlDKuD+/pOSUM+H+f4aa7IgfyQIORsPg0wlQANXucHrws1xmC5+jI8Xbp
+wB0jm0cJjYhqsfaB85bXCMa2VxNEHiiEtPB3x/xep0qlGa06U8akIrSway7vOtfY
+dwLyqByV6JGhnHvQkRC9XQb4VqbW4XFRB37IJsZJjqCenrTLplqFPUbkTWhVO8MN
+AzwmWKU0OAjcXnnTY0wjp1XvxSoe/fUEgBzq3G9VkNY/6N6bTVK9ypIhqISaT26s
+xKfTkAQ63VFj4lbUEZRD9i0BSMqrl7yUJ6KMzkLAe3ledbH0MoiVIT7UjByGPN5a
+TlC2W6sjuhKxTfMWLFPW4CNenf6yOEJXhsBbLPk3y7751OGjB8FlyyeVKORzuYjx
+ZCHPfkuBdvxazraYcQkKJdx1o2WdwyripHGHtvKML9p87G7WUVw=
+=CoD5
 -----END PGP SIGNATURE-----
