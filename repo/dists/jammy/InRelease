@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: jammy
+Date: Fri, 08 Mar 2024 03:14:52 UTC
+Architectures: amd64
+Components: main
+Description: Pivot-Studio/apt-repo
+MD5Sum:
+ 95dd452db61be837d83621c433d908de 480 main/binary-amd64/Packages
+ c647dcda7d07a8ff0732e3a54a0aee47 361 main/binary-amd64/Packages.gz
+ 98784b674b6015062d3ab04da0389e3a 71 main/binary-amd64/Release
+SHA1:
+ e15fe26a153c3a71126606b4926751b53179a556 480 main/binary-amd64/Packages
+ 54249599e9629543316825604be921f57135dd23 361 main/binary-amd64/Packages.gz
+ 38ba2c905b5309dde6be09bcbfd3c6b464a05946 71 main/binary-amd64/Release
+SHA256:
+ 942623004638b368ea4453a3391a2d443162b30b386876907a43a4622f9d5f5b 480 main/binary-amd64/Packages
+ 48eaaef7d77ecf5c6ff00329c0cf0050623e2e143704c176cd70203e3fb9324f 361 main/binary-amd64/Packages.gz
+ 3967193c3fbf544e052a066375dacb46d53cbeebe306ba8b043bc5daf5b74a0c 71 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE2w4J9Gm/s7Pb1ZUGRLLojcNrR7gFAmXqgq0ACgkQRLLojcNr
+R7hrmQ/+ICl398Gd5V3zzw1xWySzQpxRwtnjI03tLeQdmOx8mygrFHpcLT387XCk
+Gn0lhZfXLzIYItjioQGe9Msr0fg1Ocej9VcXn8MfNff0ht3C6wmLXLkSUjog8NKB
+DBByhSwF15fMI+fBp0Qj9wAAS7i9eZVY+3KILkrRweldifAIgyy4oow7RnT1qkHN
+WbfH87FDbhYVluGRBqJNqOZL+cXEaMGKxGSNXM/KjhjaKI+OqOhk+9UOaVHo5KRd
+NoJuTsaAOjHijv2Q/ixb1KGERzB47zARNNohIBDoGl/V3KTy9dpiFbd6MawNVyQ/
+4642TTDXokh0h8co9snB9ditMY/yHHmZFM3UpKVel+oNGwQNah2WamI0QRH1C1fL
+YrDQYYTpZlc6GNCPuGGvbpM3fhjSZLrWs8GvgBJDHIbaXj99pjvWFefsOD6urGCx
+Q0FhBBzJz1c0KqH/uzqW3SLKmHO5A3TcjZb5evfsXgzoBnQO+bbM8U4RM4kpHpyo
+pMzDZRZ0PlHFpwnxvzmh8DmPqwkyw033b/iRM1tQ0sIP3OnweKIiShv2laE2H6Cv
+A0pbTZAh2CNkFbYrqRTuqWGYeJkbVmOT9aplQkXeMiFLV2QaYHY7thQtaDPAa5Kl
+OfgDqGY7XWIPXxg2KDZ364OuQgLgnJm/0hpF3VF7m28tRZOTMdA=
+=Qisz
+-----END PGP SIGNATURE-----
