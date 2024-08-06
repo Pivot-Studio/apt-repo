@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: focal
+Date: Tue, 06 Aug 2024 10:37:55 UTC
+Architectures: amd64
+Components: main
+Description: Pivot-Studio/apt-repo
+MD5Sum:
+ 908f0bbf84e8434910535b77cec97ba1 480 main/binary-amd64/Packages
+ 927aed8306b6baded3095f45a354fa8f 363 main/binary-amd64/Packages.gz
+ 98784b674b6015062d3ab04da0389e3a 71 main/binary-amd64/Release
+SHA1:
+ c7b12253de0fa091f9017c3520309f5d23325a39 480 main/binary-amd64/Packages
+ 3588eca9af5885711f405ad8f252c3c923d4c87a 363 main/binary-amd64/Packages.gz
+ 38ba2c905b5309dde6be09bcbfd3c6b464a05946 71 main/binary-amd64/Release
+SHA256:
+ 78247249eb3a57ba4d9d4ac5a546a013289b81325542c10adf711891353ef582 480 main/binary-amd64/Packages
+ 054e7a4762d7f5887e1a43517d8d07eec5c98bf1a37f9111e240efd814b2aaaf 363 main/binary-amd64/Packages.gz
+ 3967193c3fbf544e052a066375dacb46d53cbeebe306ba8b043bc5daf5b74a0c 71 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE2w4J9Gm/s7Pb1ZUGRLLojcNrR7gFAmax/QMACgkQRLLojcNr
+R7h6Ew/9G4pHLbZvR8U+5GOa70VZgYE/vRXLP/Fg4PARwseL6gcaIZaOcSsZxr0E
+1mJlWboU47a4EoPTjkVM/qlhY0zi0Cx186hQp8Vtn5wfmZJpxN3Os89bSw9xr7V2
+xU11S/hdY6duh2xHlR8MUhZ90oATuDVmiRRbWYo61Rcpddg5FnodSVUsX1SWLBd8
+sXK+SlBMb1gxBSgVMVZhPSV02sTtpJmP8+Bh54bKvdYpME/mKwmRtp+zvTX/C82q
+Un8XGe+qNIe6H5h6Y5qJkFvGx8BuhG64XPEhccP5U37/X8/WnyH3XCiwjVtjoMCs
+ukwHF23rMoYFUVZAv4ZUYYA9wPxU+SC43tJK6zzGDWjySotQ9UNW9gQAs1coow1s
+1HOvFnuXmhgEYr/R/nh6239SLmnTm5o9XCn7MVeuopMnxzIQHi1xQHl/Xg3ftME6
+3FC2/+sL6Nwwre68N/Ji9SUhoGGEuFrOmYtuqU3ZxzAQQMdu7wlGDolS3R1ljMY7
+exUPwYjP5p4m37CIHXYVMDgW7/L5mMKsesXphz2XS7jUKVObABO555bsOXD+k/8l
+qXbFdxoxg5rlosfoITxVNw/NXyaP6Xx3iyPBJtEOKl7FjUcx8GZe2fN8gtnR/f4X
+vQjEayJh/4nCH23ks545/BHky4UVdaHEy58ooXA9b0+btMVUMmk=
+=Jfx1
+-----END PGP SIGNATURE-----
