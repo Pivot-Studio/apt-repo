@@ -1,0 +1,17 @@
+Codename: jammy
+Date: Wed, 09 Oct 2024 10:49:35 UTC
+Architectures: amd64
+Components: main
+Description: Pivot-Studio/apt-repo
+MD5Sum:
+ 51853e86d36a602567616c3f972ff153 480 main/binary-amd64/Packages
+ a6df7028a4aebeaa48c5e83ddce02947 362 main/binary-amd64/Packages.gz
+ 98784b674b6015062d3ab04da0389e3a 71 main/binary-amd64/Release
+SHA1:
+ 70b063c651004376820b5101a7e8c400fb52bf19 480 main/binary-amd64/Packages
+ 253e502f31dd778abc6ec9034eb114a034c7842c 362 main/binary-amd64/Packages.gz
+ 38ba2c905b5309dde6be09bcbfd3c6b464a05946 71 main/binary-amd64/Release
+SHA256:
+ 2a336098c62eba19a8feb69051aa93d76dd21179de4d9ae8b9b8f9e40e9d1d82 480 main/binary-amd64/Packages
+ 5c7dc664ba5f7cb23220d05d3191610f90c8439ef86194e840a5fb0ee1851a39 362 main/binary-amd64/Packages.gz
+ 3967193c3fbf544e052a066375dacb46d53cbeebe306ba8b043bc5daf5b74a0c 71 main/binary-amd64/Release

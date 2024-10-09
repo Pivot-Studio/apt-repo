@@ -1,0 +1,14 @@
+Description: Pivot-Studio/apt-repo
+Codename: jammy
+Architectures: amd64
+Components: main
+SignWith: DB0E09F469BFB3B3DBD5950644B2E88DC36B47B8
+
+
+Description: Pivot-Studio/apt-repo
+Codename: focal
+Architectures: amd64
+Components: main
+SignWith: DB0E09F469BFB3B3DBD5950644B2E88DC36B47B8
+
+
