@@ -1,0 +1,15 @@
+Package: pivot-lang
+Version: 0.1.471
+Installed-Size: 229951
+Architecture: amd64
+Maintainer: Chronos <1769712655@qq.com>
+Depends: build-essential, git, libunwind-dev, libxml2
+Priority: standard
+Section: devel
+Filename: pool/main/p/pivot-lang/pivot-lang_0.1.471_amd64.deb
+Size: 66754320
+SHA256: c8730289962f70f8db3adf7aca1b855259b64d2c8ef184cf1ee0de31d79cafef
+SHA1: e9a4b7e06b398757b2ec6e65a5bd08552510c8c7
+MD5sum: e9cd54cb3232791bf48c83a6747e3cf4
+Description: pivot-lang compiler
+
